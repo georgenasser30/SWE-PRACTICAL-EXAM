@@ -59,10 +59,6 @@ You can view the workflow logic for specific functions in the **[diagrams/activi
 *   **Return Book:** Illustrates the logic for accepting returns and calculating fines.
 *   **Membership Registration:** The process of verifying student data with external systems.
 
-### Sequence Diagrams
-You can view the object interaction details in the **[diagrams/sequence/](./diagrams/sequence/)** folder.
-
-*   **Main System Sequence:** A comprehensive diagram covering the full borrowing lifecycle. It details the messages passed between the Member, Librarian, System, and Database entities (Book, LoanTransaction, Fine, MemberAccount).
 
 ---
 
