@@ -3,6 +3,19 @@
   <br><br>
   <h1>Library Management System</h1>
   <h3>Software Engineering 1 (Practical)</h3>
+  
+  <p>
+    <strong>Under the Supervision of:</strong><br>
+    Prof. Ayman Hassanien (د. أيمن حسانين)
+  </p>
+  
+  <p>
+    <strong>Technical Assistants:</strong><br>
+    Eng. Ahmed Abdelmonem (م. احمد عبد المنعم)<br>
+    Eng. Mohamed Abdelmonem (م. محمد عبد المنعم)<br>
+    Eng. Nada Hamdy (م. ندى حمدي)
+  </p>
+
   <p><strong>Academic Year:</strong> Egypt 2025/2026</p>
 </div>
 
