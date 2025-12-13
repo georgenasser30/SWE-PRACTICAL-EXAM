@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="assets/o6u-logo.jpeg" alt="O6U Logo" width="150" />
-  &nbsp; &nbsp; &nbsp;
-  <img src="assets/cs-logo.png" alt="O6U CS Logo" width="150" />
+ 
+  <img src="assets/o6u-logo.jpeg" alt="O6U Logo" height="200" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="assets/cs-logo.png" alt="O6U CS Logo" height="200" />
+  
   <br><br>
   <h1>Library Management System</h1>
   <h3>Software Engineering 1 (Practical)</h3>
