@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/o6u-logo.jpeg" alt="O6U Logo" width="150" height="auto" />
+  <img src="assets/o6u-logo.jpeg" alt="O6U Logo" width="150" />
+  &nbsp; &nbsp; &nbsp;
+  <img src="assets/cs-logo.png" alt="O6U CS Logo" width="150" />
   <br><br>
   <h1>Library Management System</h1>
   <h3>Software Engineering 1 (Practical)</h3>
@@ -72,7 +74,6 @@ You can view the workflow logic for specific functions in the **[diagrams/activi
 *   **Borrow Book:** Details the decision process for loaning a book (checking limits and availability).
 *   **Return Book:** Illustrates the logic for accepting returns and calculating fines.
 *   **Membership Registration:** The process of verifying student data with external systems.
-
 
 ---
 
